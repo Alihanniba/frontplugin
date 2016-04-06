@@ -34,4 +34,4 @@
 	});
 </script>
 ```
-![](fancyBox.png)
+![](fancyBox.p
