@@ -34,5 +34,5 @@
 	});
 </script>
 ```
-
+![](fancyBox.png)
 ###
