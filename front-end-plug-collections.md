@@ -2,7 +2,7 @@
 从入坑写代码到现在差不多一年了,当初很菜,现在还是很菜,不过总是每天都比前一天好,很享受这种状态,入坑时先进入的是前端领域,所以记录下自己做开发以来在前端领域发现并试用过的一些在自己看来不错的插件,作为自己一个阶段的集合,仅作为个人参考,如大神们发现坑的地方,欢迎指正!
 
  
-## 1.[fancyBox-图片展示插件](http://fancyapps.com/fancybox/) 
+# 1.[fancyBox-图片展示插件](http://fancyapps.com/fancybox/) 
   
 **Fancybox是一款优秀的jquery插件，它能够展示丰富的弹出层效果。前面我们有文章介绍了facybox弹出层效果，相比facybox，fancybox显得功能更为齐全，它除了可以加载DIV，图片、图片集、Ajax数据，还能加载SWF影片，iframe页面等等。**
 
@@ -41,14 +41,15 @@
 
 
 
-# [DEMO](http://www.jq22.com/yanshi28)
+* # [DEMO](http://www.jq22.com/yanshi28)
+* # [github地址](https://github.com/fancyapps/fancyBox)
 
 
 
 个人试验,适配移动端
 
 
-## **2.[Swiper-滑动特效插件](http://www.swiper.com.cn/)**(pc)
+# **2.[Swiper-滑动特效插件](http://www.swiper.com.cn/)**(pc)
 
 
 
@@ -132,12 +133,14 @@
 ```
 
 
-# [DEMO](http://www.swiper.com.cn/demo/index.html)
+* # [DEMO](http://www.swiper.com.cn/demo/index.html)
+* # [DEMO2](http://idangero.us/swiper/#.VwT6zxN94cg)
+* # [github地址](https://github.com/nolimits4web/Swiper)
 
 
 
 
-##3.[touchSlide-滑动特效插件](http://www.superslide2.com/)(mobile)
+#3.[touchSlide-滑动特效插件](http://www.superslide2.com/)(mobile)
 **TouchSlide 是纯javascript打造的触屏滑动特效插件，面向手机、平板电脑等移动终端，
 能实现触屏焦点图、触屏Tab切换、触屏多图切换等常用效果。
 插件开源、体积小、简单实用、功能强大，是你架构移动终端网站的重要选择！**
@@ -195,7 +198,7 @@
 
 个人亲测,移动端可高度自适应
 
-##4.[loader.css-css动画加载特效](https://connoratherton.com/loaders)
+#4.[loader.css-css动画加载特效](https://connoratherton.com/loaders)
 **Loaders.css是一款非常出色的加载动画框架，Loaders.css利用纯CSS可以实现很多种样式的Loading加载动画，这些动画并不需要图片来辅助，而是仅仅需要CSS即可实现，因此运行效率比较不错。**
 
 **Loaders.css的特点**
@@ -223,12 +226,12 @@
  background: orange;
 }
 ```
-# [DEMO](https://connoratherton.com/loaders)
+* # [DEMO](https://connoratherton.com/loaders)
+* # [github地址](https://github.com/ConnorAtherton/loaders.css)
 
 
 
-
-## 5.[chosen-强大的jquery模拟下拉框(select)插件](http://www.vaikan.com/docs/Chosen/Chosen.htm)
+# 5.[chosen-强大的jquery模拟下拉框(select)插件](http://www.vaikan.com/docs/Chosen/Chosen.htm)
 
 **Chosen 是一个JavaScript插件，它能让丑陋的、很长的select选择框变的更好看、更方便。目前，它支持 jQuery 和 Prototype 两种JavaScript引擎。**
 
