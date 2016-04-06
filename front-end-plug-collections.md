@@ -2,7 +2,7 @@
 从入坑写代码到现在差不多一年了,当初很菜,现在还是很菜,不过总是每天都比前一天好,很享受这种状态,入坑时先进入的是前端领域,所以记录下自己做开发以来在前端领域发现并试用过的一些在自己看来不错的插件,作为自己一个阶段的集合,仅作为个人参考,如大神们发现坑的地方,欢迎指正!
 
  
-### 1.[fancyBox-图片展示插件](http://fancyapps.com/fancybox/) 
+## 1.[fancyBox-图片展示插件](http://fancyapps.com/fancybox/) 
   
 **Fancybox是一款优秀的jquery插件，它能够展示丰富的弹出层效果。前面我们有文章介绍了facybox弹出层效果，相比facybox，fancybox显得功能更为齐全，它除了可以加载DIV，图片、图片集、Ajax数据，还能加载SWF影片，iframe页面等等。**
 
@@ -44,8 +44,162 @@
 
 个人试验,适配移动端
 
-**2.[Swiper](http://www.swiper.com.cn/)**
+
+## **2.[Swiper](http://www.swiper.com.cn/)**(pc)
+
+
 
 * **Swiper是纯javascript打造的滑动特效插件，面向手机、平板电脑等移动终端。**
 * **Swiper能实现触屏焦点图、触屏Tab切换、触屏多图切换等常用效果.**
 * **Swiper开源、免费、稳定、使用简单、功能强大，是架构移动终端网站的重要选择！**
+
+
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Swiper demo</title>
+    <!-- Link Swiper's CSS -->
+    <link rel="stylesheet" href="../dist/css/swiper.min.css">
+
+    <!-- Demo styles -->
+    <style>
+    body {
+        background: #eee;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color:#000;
+        margin: 0;
+        padding: 0;
+    }
+    .swiper-container {
+        width: 500px;
+        height: 300px;
+        margin: 20px auto;
+    }
+    .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+        
+        /* Center slide text vertically */
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+    }
+    </style>
+</head>
+<body>
+    <!-- Swiper -->
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">Slide 1</div>
+            <div class="swiper-slide">Slide 2</div>
+            <div class="swiper-slide">Slide 3</div>
+            <div class="swiper-slide">Slide 4</div>
+            <div class="swiper-slide">Slide 5</div>
+            <div class="swiper-slide">Slide 6</div>
+            <div class="swiper-slide">Slide 7</div>
+            <div class="swiper-slide">Slide 8</div>
+            <div class="swiper-slide">Slide 9</div>
+            <div class="swiper-slide">Slide 10</div>
+        </div>
+    </div>
+
+    <!-- Swiper JS -->
+    <script src="../dist/js/swiper.min.js"></script>
+
+    <!-- Initialize Swiper -->
+    <script>
+    var swiper = new Swiper('.swiper-container');
+    </script>
+</body>
+</html>
+```
+
+[DEMO](http://www.swiper.com.cn/demo/index.html)
+
+
+##3.[touchSlide](http://www.superslide2.com/)(mobile)
+**TouchSlide 是纯javascript打造的触屏滑动特效插件，面向手机、平板电脑等移动终端，
+能实现触屏焦点图、触屏Tab切换、触屏多图切换等常用效果。
+插件开源、体积小、简单实用、功能强大，是你架构移动终端网站的重要选择！**
+
+1、引用TouchSlide.js
+```js
+<script type="text/javascript" src="../TouchSlide.1.0.js"></script>
+```
+2、编写HTML
+```html
+<div id="leftTabBox" class="tabBox">
+    <div class="hd">
+        <ul>
+            <li>国内</li>
+            <li>国际</li>
+            <li>时事</li>
+        </ul>
+    </div>
+    <div class="bd">
+            <ul>
+                <li><a href="#">官方明确感染H7N9高危人群</a></li>
+                ...
+            </ul>
+            <ul>
+                <li><a href="#">日:沈阳军区部队开赴中朝边境</a></li>
+                ...
+            </ul>
+            <ul>
+                <li><a href="#">农业占GDP低政府支持力度大</a></li>
+                ...
+            </ul>
+    </div>
+</div>
+```
+3、编写CSS，为HTML赋予样色
+
+```css
+.tabBox .hd{ height:40px; line-height:40px; padding:0 10px; font-size:20px; background:#f4f4f4; border-bottom:1px solid #F5AB38; position:relative;  }
+.tabBox .hd ul{ position:absolute; height:41px; top:0; overflow:hidden;  }
+.tabBox .hd ul li{ float:left; padding:0 10px; color:#666;  }
+.tabBox .hd ul .on{ border:2px solid #F5AB38; border-bottom-color:#fff; background:#fff; color:#CF7F21;   }
+.tabBox .bd ul{ padding:10px 0 10px 10px;  }
+.tabBox .bd li{ height:33px; line-height:33px;   }
+.tabBox .bd li a{ color:#666;  }
+```
+4、调用TouchSlide
+
+```js
+<script type="text/javascript">TouchSlide({ slideCell:"#leftTabBox" });</script>
+```
+[DEMO](http://www.superslide2.com/TouchSlide/demo.html)
+
+个人亲测,移动端可高度自适应
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
