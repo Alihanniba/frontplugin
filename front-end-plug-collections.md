@@ -263,15 +263,44 @@ $(".chzn-select").chosen();
 
 
 
+# 6.[Mobiscroll-移动端日期时间滑动、滚动插件-可以各种自定义](http://demo.mobiscroll.com/)
+
+### 强烈推荐
+
+**移动端自适应日期时间插件,可以各种自定义,ui 666,不过官网貌似要花钱,不过大天朝,你懂的.**
 
 
+1.引jquery.js,jquerymobile.js 等等必须的文件
+2.
 
+```html
+<div data-role="fieldcontain">
+      <label for="txtBirthday">出生日期：</label>
+      <input type="text" data-role="datebox"   id="txtBirthday" name="birthday" />
+</div>
+```
 
+3.初始化日期控件
 
-
-
-
-
+```js
+$('input:jqmData(role="datebox")').mobiscroll().date();
+```
+```js
+var opt = {
+        preset: 'date', //日期
+        theme: 'jqm', //皮肤样式
+        display: 'modal', //显示方式 
+        mode: 'clickpick', //日期选择模式
+        dateFormat: 'yy-mm-dd', // 日期格式
+        setText: '确定', //确认按钮名称
+        cancelText: '取消',//取消按钮名籍我
+        dateOrder: 'yymmdd', //面板中日期排列格式
+        dayText: '日', monthText: '月', yearText: '年', //面板中年月日文字
+        endYear:2020 //结束年份
+    };
+    
+    $('input:jqmData(role="datebox")').mobiscroll(opt);
+```
 
 
 
