@@ -186,6 +186,22 @@
 
 个人亲测,移动端可高度自适应
 
+##4.[loader.css](https://connoratherton.com/loaders)
+**Loaders.css是一款非常出色的加载动画框架，Loaders.css利用纯CSS可以实现很多种样式的Loading加载动画，这些动画并不需要图片来辅助，而是仅仅需要CSS即可实现，因此运行效率比较不错。**
+
+**Loaders.css的特点**
+
+* **基于纯CSS，不需JavaScript脚本，也不需要图片，很干净。
+默认提供近30个不同的Loading动画效果，你也可以发挥自己的想象来实现不同的加载动画。**
+* **Loaders.css比较轻巧，基本没什么臃肿的文件。
+免费、开源，这是必须的。**
+
+
+
+
+
+[DEMO](https://connoratherton.com/loaders)
+
 
 
 
