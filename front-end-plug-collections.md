@@ -1,7 +1,11 @@
 #前端插件资源整理
 从入坑写代码到现在差不多一年了,当初很菜,现在还是很菜,不过总是每天都比前一天好,很享受这种状态,入坑时先进入的是前端领域,所以记录下自己做开发以来在前端领域发现并试用过的一些在自己看来不错的插件,作为自己一个阶段的集合,仅作为个人参考,如大神们发现坑的地方,欢迎指正!
 
- **1.[fancyBox-图片展示插件](http://fancyapps.com/fancybox/) **
+ 
+### 1.[fancyBox-图片展示插件](http://fancyapps.com/fancybox/) 
+  
+   **Fancybox是一款优秀的jquery插件，它能够展示丰富的弹出层效果。前面我们有文章介绍了facybox弹出层效果，相比facybox，fancybox显得功能更为齐全，它除了可以加载DIV，图片、图片集、Ajax数据，还能加载SWF影片，iframe页面等等。**
+
 
 ```js
 <!-- Add jQuery library -->
@@ -34,8 +38,11 @@
 	});
 </script>
 ```
-###Fancybox是一款优秀的jquery插件，它能够展示丰富的弹出层效果。前面我们有文章介绍了facybox弹出层效果，相比facybox，fancybox显得功能更为齐全，它除了可以加载DIV，图片、图片集、Ajax数据，还能加载SWF影片，iframe页面等等。
+
 
 [DEMO](http://www.jq22.com/yanshi28)
 
 个人试验,适配移动端
+
+**2.[Swiper](http://www.swiper.com.cn/)**
+
