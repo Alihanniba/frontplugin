@@ -40,12 +40,15 @@
 ```
 
 
-[DEMO](http://www.jq22.com/yanshi28)
+
+# [DEMO](http://www.jq22.com/yanshi28)
+
+
 
 个人试验,适配移动端
 
 
-## **2.[Swiper](http://www.swiper.com.cn/)**(pc)
+## **2.[Swiper-滑动特效插件](http://www.swiper.com.cn/)**(pc)
 
 
 
@@ -128,10 +131,13 @@
 </html>
 ```
 
-[DEMO](http://www.swiper.com.cn/demo/index.html)
+
+# [DEMO](http://www.swiper.com.cn/demo/index.html)
 
 
-##3.[touchSlide](http://www.superslide2.com/)(mobile)
+
+
+##3.[touchSlide-滑动特效插件](http://www.superslide2.com/)(mobile)
 **TouchSlide 是纯javascript打造的触屏滑动特效插件，面向手机、平板电脑等移动终端，
 能实现触屏焦点图、触屏Tab切换、触屏多图切换等常用效果。
 插件开源、体积小、简单实用、功能强大，是你架构移动终端网站的重要选择！**
@@ -182,11 +188,14 @@
 ```js
 <script type="text/javascript">TouchSlide({ slideCell:"#leftTabBox" });</script>
 ```
-[DEMO](http://www.superslide2.com/TouchSlide/demo.html)
+
+# [DEMO](http://www.superslide2.com/TouchSlide/demo.html)
+
+
 
 个人亲测,移动端可高度自适应
 
-##4.[loader.css](https://connoratherton.com/loaders)
+##4.[loader.css-css动画加载特效](https://connoratherton.com/loaders)
 **Loaders.css是一款非常出色的加载动画框架，Loaders.css利用纯CSS可以实现很多种样式的Loading加载动画，这些动画并不需要图片来辅助，而是仅仅需要CSS即可实现，因此运行效率比较不错。**
 
 **Loaders.css的特点**
@@ -196,11 +205,31 @@
 * **Loaders.css比较轻巧，基本没什么臃肿的文件。
 免费、开源，这是必须的。**
 
+1.引入 loaders.min.css 和 loaders.css.js，这个JS仅是为了简化动画的DIV标签，如果不加这个JS，那么你的动画就必须加上对应数量DIV标签才能正常显示动画，所以建议加上，这样语义化好会好些。
+
+```html
+<link rel="stylesheet" type="text/css" href="loaders.min.css">
+<script type="text/javascript" src="loaders.css.js"></script>
+```
+2.HTML代码，给loading元素加入动画class
+
+```html
+<div class="loader-inner ball-pulse"></div>
+```
+3.改变加载动画颜色
+
+```css
+.ball-grid-pulse > div {
+ background: orange;
+}
+```
+# [DEMO](https://connoratherton.com/loaders)
 
 
 
 
-[DEMO](https://connoratherton.com/loaders)
+
+
 
 
 
