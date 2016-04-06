@@ -228,6 +228,44 @@
 
 
 
+## 5.[chosen-强大的jquery模拟下拉框(select)插件](http://www.vaikan.com/docs/Chosen/Chosen.htm)
+
+**Chosen 是一个JavaScript插件，它能让丑陋的、很长的select选择框变的更好看、更方便。目前，它支持 jQuery 和 Prototype 两种JavaScript引擎。**
+
+1.引入jquery库和脚本
+```js
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="chosen/chosen.jquery.js" type="text/javascript"></script> 
+```
+
+2.选择框html片段
+```html
+<select class="chzn-select" data-placeholder="Choose a Country" style="width:350px;" tabindex="1">
+       <option value=""></option> 
+       <option value="United States">United States</option> 
+       <option value="United Kingdom">United Kingdom</option> 
+       <option value="Afghanistan">Afghanistan</option> 
+       <option value="Albania">Albania</option> 
+                 ...
+</select>
+```
+
+3.初始化组件
+
+```js
+$(".chzn-select").chosen();
+```
+* #[DEMO](http://www.vaikan.com/docs/Chosen/Chosen.htm)
+* #[github地址](https://github.com/harvesthq/chosen/)
+
+
+
+
+
+
+
+
+
 
 
 
