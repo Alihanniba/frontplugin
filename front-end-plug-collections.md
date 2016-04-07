@@ -350,6 +350,7 @@ sweetAlert({
 
 * #[github](https://github.com/t4t5/sweetalert)
 
+亲测:UI很漂亮
 
 #8.
 
