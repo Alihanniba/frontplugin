@@ -6,7 +6,8 @@
 3.[Sweet Alert-js超酷消息警告框插件](http://www.dglives.com/demo/sweetalert-master/example/)
 4.[echarts-可视化图标插件](http://echarts.baidu.com/echarts2/)
 5.[Swiper-滑动特效插件](http://www.swiper.com.cn/)**(pc)
-6.
+6.[iScroll-实现下拉刷新，滚动翻页特效的JQuery插件](http://iscrolljs.com/)
+7.
 
 
 
