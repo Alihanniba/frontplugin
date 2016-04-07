@@ -352,7 +352,32 @@ sweetAlert({
 
 亲测:UI很漂亮
 
-#8.
+#8.[VEX-小而美的jquery-css动画消息警告库](http://github.hubspot.com/vex/docs/welcome/)
+
+##github star:5000+
+##github fork:300+
+
+**可用作幻灯片样式**
 
 
+1.引入文件
 
+```js
+<script src="vex.combined.min.js"></script>
+<script>vex.defaultOptions.className = 'vex-theme-os';</script>
+<link rel="stylesheet" href="vex.css" />
+<link rel="stylesheet" href="vex-theme-os.css" />
+```
+
+
+2  
+```js
+vex.dialog.confirm
+    message: 'Are you absolutely sure you want to destroy the alien planet?'
+    callback: (value) ->
+        console.log if value then 'Successfully destroyed the planet.' else 'Chicken.'
+```
+
+* #[DEMO](http://github.hubspot.com/vex/docs/welcome/)
+
+* #[github](https://github.com/HubSpot/vex)
