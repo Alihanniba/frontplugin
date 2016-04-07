@@ -734,7 +734,7 @@ editor.html('HTML内容');
 <script type="text/javascript">TouchSlide({ slideCell:"#leftTabBox" });</script>
 ```
 
-# [DEMO](http://www.superslide2.com/TouchSlide/demo.html)
+* # [DEMO](http://www.superslide2.com/TouchSlide/demo.html)
 
 
 
