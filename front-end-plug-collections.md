@@ -421,23 +421,58 @@ vex.dialog.confirm
 
 #10.[font-awesome-最实用的web字体图标库](https://astronautweb.co/snippet/font-awesome/)
 
-这个东西貌似有html也有css字体
+**这个东西貌似有html也有css字体,有点蒙圈**
 
 ##github star:41000+
 ##github fork:7000+
 
 
-[DEMO](http://fontawesome.io/)
+* #[DEMO](http://fontawesome.io/)
+* #[github](https://github.com/FortAwesome/Font-Awesome)
+
+#11.[jPlayer-基于HTML5/Flash的音频、视频播放器-适配移动端](http://www.jplayer.cn/)
+
+##github star:3500+
+##github fork:1100+
 
 
-[github](https://github.com/FortAwesome/Font-Awesome)
+**jPlayer是一个JavaScript写的完全免费和开源 (MIT) 的jQuery多媒体库插件 (现在也是一个Zepto插件) jPlayer可以让你迅速编写一个跨平台的支持音频和视频播放的网页. jPlayer的丰富API可以让你创建一个个性化多媒体应用，因此也获得越来越多的社区成员的支持和鼓励。**
 
+* **简单:**几分钟就可以上手编码、部署
+* **可定制:**可以方便地用HTML和CSS换肤
+* **轻量:**压缩的mini版只有12K
+* **免费开源:**没有任何许可限制
+* **社区支持:**不断增长的活跃社区
+* **插件丰富:**主流平台上越来越多的免费插件
+* **跨平台:**跨平台跨浏览器多解码器支持
+* **文档全面:**完善的文档和入门指南
+* **接口统一:**提供兼容浏览器、HTML5和Flash的统一接口
+* **扩展性:**拥有高扩展性的架构体系
 
+```js
+<script type="text/javascript">
+ $(document).ready(function(){
+  $("#jquery_jplayer_1").jPlayer({
+   ready: function () {
+    $(this).jPlayer("setMedia", {
+     m4a: "/media/mysound.mp4",
+     oga: "/media/mysound.ogg"
+    });
+   },
+   swfPath: "/js",
+   supplied: "m4a, oga"
+  });
+ });
+</script>
+<div id="jquery_jplayer_1"></div>
+<div id="jp_container_1">
+ <a href="#" class="jp-play">Play</a>
+ <a href="#" class="jp-pause">Pause</a>
+</div>
+```
 
-
-
-
-
+* #[DEMO](http://www.jplayer.cn/demos.html)
+* #[github](https://github.com/happyworm/jPlayer)
 
 
 
