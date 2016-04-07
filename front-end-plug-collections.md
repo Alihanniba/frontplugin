@@ -233,6 +233,9 @@
 
 # 5.[chosen-强大的jquery模拟下拉框(select)插件](http://www.vaikan.com/docs/Chosen/Chosen.htm)
 
+##github star:5000+
+##github fork:300+
+
 **Chosen 是一个JavaScript插件，它能让丑陋的、很长的select选择框变的更好看、更方便。目前，它支持 jQuery 和 Prototype 两种JavaScript引擎。**
 
 1.引入jquery库和脚本
@@ -264,6 +267,9 @@ $(".chzn-select").chosen();
 
 
 # 6.[Mobiscroll-移动端日期时间滑动、滚动插件-可以各种自定义](http://demo.mobiscroll.com/)
+
+##github star:880+
+##github fork:360+
 
 ### 强烈推荐
 
@@ -308,6 +314,10 @@ var opt = {
 
 
 # 7.[Sweet Alert-js超酷消息警告框插件](http://www.dglives.com/demo/sweetalert-master/example/)
+
+##github star:13000+
+##github fork:1600+
+
 
 **SweetAlert是一款神奇的javascript弹出消息警告框插件。**
 
