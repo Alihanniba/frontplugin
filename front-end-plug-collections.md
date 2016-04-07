@@ -28,9 +28,8 @@
 
 **这个东西貌似有html也有css字体,有点蒙圈**
 
-**github star:41000+**
-
-**github fork:7000+**
+* **github star:41000+**
+* **github fork:7000+**
 
 
 * **[DEMO](http://fontawesome.io/)**
@@ -41,8 +40,8 @@
  
 **[2.chosen-强大的jquery模拟下拉框(select)插件](http://www.vaikan.com/docs/Chosen/Chosen.htm)**
 
-##github star:19000+
-##github fork:3700+
+* **github star:19000+**
+* **github fork:3700+**
 
 
 **Chosen 是一个JavaScript插件，它能让丑陋的、很长的select选择框变的更好看、更方便。目前，它支持 jQuery 和 Prototype 两种JavaScript引擎。**
@@ -70,16 +69,16 @@
 ```js
 $(".chzn-select").chosen();
 ```
-* #[DEMO](http://www.vaikan.com/docs/Chosen/Chosen.htm)
-* #[github地址](https://github.com/harvesthq/chosen/)
+* **[DEMO](http://www.vaikan.com/docs/Chosen/Chosen.htm)**
+* **[github地址](https://github.com/harvesthq/chosen/)**
 
 
  ---
  
- # 3.[Sweet Alert-js超酷消息警告框插件](http://www.dglives.com/demo/sweetalert-master/example/)
+ **[3.Sweet Alert-js超酷消息警告框插件](http://www.dglives.com/demo/sweetalert-master/example/)**
 
-##github star:13000+
-##github fork:1600+
+* **github star:13000+**
+* **github fork:1600+**
 
 
 **SweetAlert是一款神奇的javascript弹出消息警告框插件。**
@@ -119,18 +118,18 @@ sweetAlert({
 });
 ```
 
-* #[DEMO](http://www.dglives.com/demo/sweetalert-master/example/)
+* **[DEMO](http://www.dglives.com/demo/sweetalert-master/example/)**
 
-* #[github](https://github.com/t4t5/sweetalert)
+* **[github](https://github.com/t4t5/sweetalert)**
 
 亲测:UI很漂亮
 
 ---
 
-#4.[echarts-可视化图标插件](http://echarts.baidu.com/echarts2/)
+**[4.echarts-可视化图标插件](http://echarts.baidu.com/echarts2/)**
 
-##github star:11000+
-##github fork:4000+
+* **github star:11000+**
+* **github fork:4000+**
 
 **5分钟上手写ECharts的第一个图表**
 
@@ -258,15 +257,15 @@ sweetAlert({
 
 5.浏览器中打开echarts.html,就能看到效果
 
-* #[DEMO](http://echarts.baidu.com/echarts2/doc/example.html)
-* #[github](https://github.com/ecomfe/echarts)
+* **[DEMO](http://echarts.baidu.com/echarts2/doc/example.html)**
+* **[github](https://github.com/ecomfe/echarts)**
 
 ---
 
-# **5.[Swiper-滑动特效插件](http://www.swiper.com.cn/)**(pc)
+ **[5.Swiper-滑动特效插件](http://www.swiper.com.cn/)**(pc)
 
-##github star:7700+
-##github fork:2800+
+* **github star:7700+**
+* **github fork:2800+**
 
 
 * **Swiper是纯javascript打造的滑动特效插件，面向手机、平板电脑等移动终端。**
@@ -349,19 +348,19 @@ sweetAlert({
 ```
 
 
-* # [DEMO](http://www.swiper.com.cn/demo/index.html)
-* # [DEMO2](http://idangero.us/swiper/#.VwT6zxN94cg)
-* # [github地址](https://github.com/nolimits4web/Swiper)
+* ** [DEMO](http://www.swiper.com.cn/demo/index.html)**
+* ** [DEMO2](http://idangero.us/swiper/#.VwT6zxN94cg)**
+* ** [github地址](https://github.com/nolimits4web/Swiper)**
 
 
 ---
 
-#6.[iScroll-实现下拉刷新，滚动翻页特效的JQuery插件](http://iscrolljs.com/)
+**[6.iScroll-实现下拉刷新，滚动翻页特效的JQuery插件](http://iscrolljs.com/)**
 
 **iScroll是一款用于移动设备web开发的一款插件。像缩放、下拉刷新、滑动切换等移动应用上常见的一些效果都可以轻松实现。**
 
-##github star:7200+
-##github fork:2100+
+* **github star:7200+**
+* **github fork:2100+**
 
 ```js
 <script type="application/javascript" src="/Admin/News/edit/id/iscroll.js"></script>
@@ -375,17 +374,16 @@ sweetAlert({
 ```
 **曾用iScroll实现在安卓手机上触摸滚动兼容性问题**
 
-* #[DEMO](http://iscrolljs.com/)
-
-* #[github](https://github.com/cubiq/iscroll/)
+* **[DEMO](http://iscrolljs.com/)**
+* **[github](https://github.com/cubiq/iscroll/)**
 
 ---
 
 
-#7.[loader.css-css动画加载特效](https://connoratherton.com/loaders)
+**[7.loader.css-css动画加载特效](https://connoratherton.com/loaders)**
 
-##github star:6000+
-##github fork:680+
+* **github star:6000+**
+* **github fork:680+**
 
 **Loaders.css是一款非常出色的加载动画框架，Loaders.css利用纯CSS可以实现很多种样式的Loading加载动画，这些动画并不需要图片来辅助，而是仅仅需要CSS即可实现，因此运行效率比较不错。**
 
@@ -414,16 +412,16 @@ sweetAlert({
  background: orange;
 }
 ```
-* # [DEMO](https://connoratherton.com/loaders)
-* # [github地址](https://github.com/ConnorAtherton/loaders.css)
+* ** [DEMO](https://connoratherton.com/loaders)**
+* ** [github地址](https://github.com/ConnorAtherton/loaders.css)**
 
 
 ---
 
-#8.[VEX-小而美的jquery-css动画消息警告库](http://github.hubspot.com/vex/docs/welcome/)
+**[8.VEX-小而美的jquery-css动画消息警告库](http://github.hubspot.com/vex/docs/welcome/)**
 
-##github star:5000+
-##github fork:300+
+* **github star:5000+**
+* **github fork:300+**
 
 **可用作幻灯片样式**
 
@@ -446,17 +444,16 @@ vex.dialog.confirm
         console.log if value then 'Successfully destroyed the planet.' else 'Chicken.'
 ```
 
-* #[DEMO](http://github.hubspot.com/vex/docs/welcome/)
-
-* #[github](https://github.com/HubSpot/vex)
+* **[DEMO](http://github.hubspot.com/vex/docs/welcome/)**
+* **[github](https://github.com/HubSpot/vex)**
 
 
 ---
 
-# 9.[fancyBox-图片展示插件](http://fancyapps.com/fancybox/) 
+**[9.fancyBox-图片展示插件](http://fancyapps.com/fancybox/) **
   
-##github star:3600+
-##github fork:1000+
+* **github star:3600+**
+* **github fork:1000+**
   
 **Fancybox是一款优秀的jquery插件，它能够展示丰富的弹出层效果。前面我们有文章介绍了facybox弹出层效果，相比facybox，fancybox显得功能更为齐全，它除了可以加载DIV，图片、图片集、Ajax数据，还能加载SWF影片，iframe页面等等。**
 
@@ -495,8 +492,8 @@ vex.dialog.confirm
 
 
 
-* # [DEMO](http://www.jq22.com/yanshi28)
-* # [github地址](https://github.com/fancyapps/fancyBox)
+* ** [DEMO](http://www.jq22.com/yanshi28)**
+* ** [github地址](https://github.com/fancyapps/fancyBox)**
 
 
 
@@ -504,10 +501,10 @@ vex.dialog.confirm
 
 ---
 
-#10.[jPlayer-基于HTML5/Flash的音频、视频播放器-适配移动端](http://www.jplayer.cn/)
+**[10.jPlayer-基于HTML5/Flash的音频、视频播放器-适配移动端](http://www.jplayer.cn/)**
 
-##github star:3500+
-##github fork:1100+
+* **github star:3500+**
+* **github fork:1100+**
 
 
 **jPlayer是一个JavaScript写的完全免费和开源 (MIT) 的jQuery多媒体库插件 (现在也是一个Zepto插件) jPlayer可以让你迅速编写一个跨平台的支持音频和视频播放的网页. jPlayer的丰富API可以让你创建一个个性化多媒体应用，因此也获得越来越多的社区成员的支持和鼓励。**
@@ -545,16 +542,16 @@ vex.dialog.confirm
 </div>
 ```
 
-* #[DEMO](http://www.jplayer.cn/demos.html)
-* #[github](https://github.com/happyworm/jPlayer)
+* **[DEMO](http://www.jplayer.cn/demos.html)**
+* **[github](https://github.com/happyworm/jPlayer)**
 
 ---
  
 
-#11.[Rome-可定制的JS期与时间选择器-PC端](http://bevacqua.github.io/rome/)
+**[11.Rome-可定制的JS期与时间选择器-PC端](http://bevacqua.github.io/rome/)**
 
-##github star:2300+
-##github fork:170+
+* **github star:2300+**
+* **github fork:170+**
 
 **Rome是一个可定制的JS日期与时间选择器。不依赖于第三方库**
 
@@ -567,16 +564,16 @@ rome(input);
 rome(inputTwo, { initialValue: '2014-12-08 08:36' });
 ```
 
-* #[demo](http://bevacqua.github.io/rome/)
-* #[github](https://github.com/bevacqua/rome)
+* **[demo](http://bevacqua.github.io/rome/)**
+* **[github](https://github.com/bevacqua/rome)**
 
 ---
 
 
-# 12.[Mobiscroll-移动端日期时间滑动、滚动插件-可以各种自定义](http://demo.mobiscroll.com/)
+**[12.Mobiscroll-移动端日期时间滑动、滚动插件-可以各种自定义](http://demo.mobiscroll.com/)**
 
-##github star:880+
-##github fork:360+
+* **github star:880+**
+* **github fork:360+**
 
 ### 强烈推荐
 
@@ -616,17 +613,17 @@ var opt = {
     
     $('input:jqmData(role="datebox")').mobiscroll(opt);
 ```
-* #  [DEMO](demo.mobiscroll.com)
-* # [github](https://github.com/acidb/mobiscroll)
+* **  [DEMO](demo.mobiscroll.com)**
+* ** [github](https://github.com/acidb/mobiscroll)**
 
 
 ---
 
 
-#13.[kindeditor-一款可定制性极高的富文本编辑器](https://kindeditor.codeplex.com/)
+**[13.kindeditor-一款可定制性极高的富文本编辑器](https://kindeditor.codeplex.com/)**
 
-##github star:680+
-##github fork:290+
+* **github star:680+**
+* **github fork:290+**
 
 **KindEditor是一套开源的HTML可视化编辑器，主要用于让用户在网站上获得所见即所得编辑效果，兼容IE、Firefox、Chrome、Safari、Opera等主流浏览器。
 **
@@ -663,26 +660,26 @@ editor.html('HTML内容');
 ```
 
 
-* #[DEMO](http://kindeditor.net/demo.php)
-* #[github](https://github.com/kindsoft/kindeditor)
+* **[DEMO](http://kindeditor.net/demo.php)**
+* **[github](https://github.com/kindsoft/kindeditor)**
 
 ---
 
-#14.[projekktor-UI漂亮的一款HTML5播放器](http://www.projekktor.com/)
-##github star:160+
-##github fork:60+
+**[14.projekktor-UI漂亮的一款HTML5播放器](http://www.projekktor.com/)**
+* **github star:160+**
+* **github fork:60+**
 
-* #[DEMO](http://www.projekktor.com/)
+* **[DEMO](http://www.projekktor.com/)**
 
-* #[github](https://github.com/frankyghost/projekktor)
+* **[github](https://github.com/frankyghost/projekktor)**
 
 ---
 
 
-#15.[touchSlide-滑动特效插件](http://www.superslide2.com/)(mobile)
+**[15.touchSlide-滑动特效插件](http://www.superslide2.com/)(mobile)**
 
-##github star:100+
-##github fork:70+
+* **github star:100+**
+* **github fork:70+**
 
 **TouchSlide 是纯javascript打造的触屏滑动特效插件，面向手机、平板电脑等移动终端，
 能实现触屏焦点图、触屏Tab切换、触屏多图切换等常用效果。
@@ -735,7 +732,7 @@ editor.html('HTML内容');
 <script type="text/javascript">TouchSlide({ slideCell:"#leftTabBox" });</script>
 ```
 
-* # [DEMO](http://www.superslide2.com/TouchSlide/demo.html)
+* ** [DEMO](http://www.superslide2.com/TouchSlide/demo.html)**
 
 
 
@@ -745,25 +742,25 @@ editor.html('HTML内容');
 ---
 
 
-#16.[移动端事件模拟封装库](https://github.com/chenmnkken/monoevent)
+**[16.移动端事件模拟封装库](https://github.com/chenmnkken/monoevent)**
 
-##github star:37+
-##github fork:23+
+* **github star:37+**
+* **github fork:23+**
 
-* #[DEMO](http://stylechen.com/touch.html)
-* #[github](https://github.com/chenmnkken/monoevent)
+* **[DEMO](http://stylechen.com/touch.html)**
+* **[github](https://github.com/chenmnkken/monoevent)**
 
 ---
 
-#17. [elegant_font-炫的飞起的字体图标库](http://www.elegantthemes.com/blog/resources/elegant-icon-font/)
+**[17.elegant_font-炫的飞起的字体图标库](http://www.elegantthemes.com/blog/resources/elegant-icon-font/)**
 
 **虽然很炫酷,但我还是没用过,用过的还是上面font-awesome一种**
 
-##github star:13+
-##github fork:8+
+* **github star:13+**
+* **github fork:8+**
 
-* #[DEMO](http://www.elegantthemes.com/)
-* #[github](https://github.com/pprince/etlinefont-bower)
+* **[DEMO](http://www.elegantthemes.com/)**
+* **[github](https://github.com/pprince/etlinefont-bower)**
 
 
 ---
