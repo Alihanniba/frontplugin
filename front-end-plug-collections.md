@@ -535,16 +535,28 @@ editor.html('HTML内容');
 * #[DEMO](http://stylechen.com/touch.html)
 * #[github](https://github.com/chenmnkken/monoevent)
 
-#15.[isScroll-实现下拉刷新，滚动翻页特效的JQuery插件](http://iscrolljs.com/)
+#15.[iScroll-实现下拉刷新，滚动翻页特效的JQuery插件](http://iscrolljs.com/)
 
 **iScroll是一款用于移动设备web开发的一款插件。像缩放、下拉刷新、滑动切换等移动应用上常见的一些效果都可以轻松实现。**
 
+##github star:7200+
+##github fork:2100+
 
+```js
+<script type="application/javascript" src="/Admin/News/edit/id/iscroll.js"></script>
+<script type="text/javascript">
+    var myScroll;
+    function loaded() {
+        myScroll = new iScroll('wrapper');
+    }
+    document.addEventListener('DOMContentLoaded', loaded, false);
+</script>
+```
+**曾用iScroll实现在安卓手机上触摸滚动兼容性问题**
 
+* #[DEMO](http://iscrolljs.com/)
 
-
-
-
+* #[github](https://github.com/cubiq/iscroll/)
 
 
 
