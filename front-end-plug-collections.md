@@ -301,7 +301,8 @@ var opt = {
     
     $('input:jqmData(role="datebox")').mobiscroll(opt);
 ```
-[DEMO](demo.mobiscroll.com)
+* #  [DEMO](demo.mobiscroll.com)
+* # [github](https://github.com/acidb/mobiscroll)
 
 
 
