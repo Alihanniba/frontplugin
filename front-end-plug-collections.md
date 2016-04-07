@@ -475,9 +475,54 @@ vex.dialog.confirm
 * #[github](https://github.com/happyworm/jPlayer)
 
 
+#12.[projekktor-UI漂亮的一款HTML5播放器](http://www.projekktor.com/)
+##github star:160+
+##github fork:60+
+
+[DEMO](http://www.projekktor.com/)
+
+[github](https://github.com/frankyghost/projekktor)
 
 
+#13.[kindeditor-一款可定制性极高的富文本编辑器](https://kindeditor.codeplex.com/)
+
+##github star:680+
+##github fork:290+
+
+**KindEditor是一套开源的HTML可视化编辑器，主要用于让用户在网站上获得所见即所得编辑效果，兼容IE、Firefox、Chrome、Safari、Opera等主流浏览器。
+**
+
+1.在需要显示编辑器的位置添加textarea输入框。
+```html
+<textarea id="editor_id" name="content" style="width:700px;height:300px;">
+&lt;strong&gt;HTML内容&lt;/strong&gt;
+</textarea>
+```
+2.在该HTML页面添加以下脚本
+```js
+<script charset="utf-8" src="/editor/kindeditor.js"></script>
+<script charset="utf-8" src="/editor/lang/zh-CN.js"></script>
+<script>
+        KindEditor.ready(function(K) {
+                window.editor = K.create('#editor_id');
+        });
+</script>
+```
+3.获取HTML数据
+```js
+/*取得HTML内容*/
+html = editor.html();
+
+/* 同步数据后可以直接取得textarea的value*/
+editor.sync();
+html = document.getElementById('editor_id').value; /*原生API*/
+html = K('#editor_id').val(); /* KindEditor Node API*/
+html = $('#editor_id').val(); /*jQuery*/
+
+/*设置HTML内容*/
+editor.html('HTML内容');
+```
 
 
-
-
+* #[DEMO](http://kindeditor.net/demo.php)
+* #[github](https://github.com/kindsoft/kindeditor)
