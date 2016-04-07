@@ -415,19 +415,22 @@ vex.dialog.confirm
 ##github star:13+
 ##github fork:8+
 
-[DEMO](http://www.elegantthemes.com/)
-[github](https://github.com/pprince/etlinefont-bower)
+* #[DEMO](http://www.elegantthemes.com/)
+* #[github](https://github.com/pprince/etlinefont-bower)
 
 
+#10.[font-awesome-最实用的web字体图标库](https://astronautweb.co/snippet/font-awesome/)
+
+这个东西貌似有html也有css字体
+
+##github star:41000+
+##github fork:7000+
 
 
+[DEMO](http://fontawesome.io/)
 
 
-
-
-
-
-
+[github](https://github.com/FortAwesome/Font-Awesome)
 
 
 
