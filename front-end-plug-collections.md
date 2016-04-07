@@ -526,3 +526,27 @@ editor.html('HTML内容');
 
 * #[DEMO](http://kindeditor.net/demo.php)
 * #[github](https://github.com/kindsoft/kindeditor)
+
+#14.[移动端事件模拟封装库](https://github.com/chenmnkken/monoevent)
+
+##github star:37+
+##github fork:23+
+
+[github](https://github.com/chenmnkken/monoevent)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
