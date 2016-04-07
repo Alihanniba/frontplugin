@@ -233,8 +233,9 @@
 
 # 5.[chosen-强大的jquery模拟下拉框(select)插件](http://www.vaikan.com/docs/Chosen/Chosen.htm)
 
-##github star:5000+
-##github fork:300+
+##github star:19000+
+##github fork:3700+
+
 
 **Chosen 是一个JavaScript插件，它能让丑陋的、很长的select选择框变的更好看、更方便。目前，它支持 jQuery 和 Prototype 两种JavaScript引擎。**
 
