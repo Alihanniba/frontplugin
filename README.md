@@ -3,7 +3,8 @@
 
 1. [font-awesome-最实用的web字体图标库](https://astronautweb.co/snippet/font-awesome/)
 2.[chosen-强大的jquery模拟下拉框(select)插件](http://www.vaikan.com/docs/Chosen/Chosen.htm)
-3.
+3.[Sweet Alert-js超酷消息警告框插件](http://www.dglives.com/demo/sweetalert-master/example/)
+4.
 
 
  
