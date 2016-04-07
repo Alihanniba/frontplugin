@@ -756,7 +756,7 @@ editor.html('HTML内容');
 
 #17. [elegant_font-炫的飞起的字体图标库](http://www.elegantthemes.com/blog/resources/elegant-icon-font/)
 
-**虽然很炫酷,但我还是没用过,用过的还是下面一种**
+**虽然很炫酷,但我还是没用过,用过的还是上面font-awesome一种**
 
 ##github star:13+
 ##github fork:8+
