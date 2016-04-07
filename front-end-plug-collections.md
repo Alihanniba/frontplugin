@@ -2,6 +2,8 @@
 从入坑写代码到现在差不多一年了,当初很菜,现在还是很菜,不过总是每天都比前一天好,很享受这种状态,入坑时先进入的是前端领域,所以记录下自己做开发以来在前端领域发现并试用过的一些在自己看来不错的插件,作为自己一个阶段的集合,仅作为个人参考,如大神们发现坑的地方,欢迎指正!
 
  
+ ---
+ 
 # 1.[fancyBox-图片展示插件](http://fancyapps.com/fancybox/) 
   
 ##github star:3600+
@@ -51,6 +53,7 @@
 
 个人试验,适配移动端
 
+---
 
 # **2.[Swiper-滑动特效插件](http://www.swiper.com.cn/)**(pc)
 
@@ -143,7 +146,7 @@
 * # [github地址](https://github.com/nolimits4web/Swiper)
 
 
-
+---
 
 #3.[touchSlide-滑动特效插件](http://www.superslide2.com/)(mobile)
 
@@ -207,6 +210,9 @@
 
 个人亲测,移动端可高度自适应
 
+
+---
+
 #4.[loader.css-css动画加载特效](https://connoratherton.com/loaders)
 
 ##github star:6000+
@@ -243,6 +249,7 @@
 * # [github地址](https://github.com/ConnorAtherton/loaders.css)
 
 
+---
 
 # 5.[chosen-强大的jquery模拟下拉框(select)插件](http://www.vaikan.com/docs/Chosen/Chosen.htm)
 
@@ -279,6 +286,7 @@ $(".chzn-select").chosen();
 * #[github地址](https://github.com/harvesthq/chosen/)
 
 
+---
 
 # 6.[Mobiscroll-移动端日期时间滑动、滚动插件-可以各种自定义](http://demo.mobiscroll.com/)
 
@@ -326,6 +334,8 @@ var opt = {
 * #  [DEMO](demo.mobiscroll.com)
 * # [github](https://github.com/acidb/mobiscroll)
 
+
+---
 
 # 7.[Sweet Alert-js超酷消息警告框插件](http://www.dglives.com/demo/sweetalert-master/example/)
 
@@ -376,6 +386,8 @@ sweetAlert({
 
 亲测:UI很漂亮
 
+---
+
 #8.[VEX-小而美的jquery-css动画消息警告库](http://github.hubspot.com/vex/docs/welcome/)
 
 ##github star:5000+
@@ -407,6 +419,7 @@ vex.dialog.confirm
 * #[github](https://github.com/HubSpot/vex)
 
 
+---
 
 #9. [elegant_font-炫的飞起的字体图标库](http://www.elegantthemes.com/blog/resources/elegant-icon-font/)
 
@@ -429,6 +442,9 @@ vex.dialog.confirm
 
 * #[DEMO](http://fontawesome.io/)
 * #[github](https://github.com/FortAwesome/Font-Awesome)
+
+
+---
 
 #11.[jPlayer-基于HTML5/Flash的音频、视频播放器-适配移动端](http://www.jplayer.cn/)
 
@@ -474,6 +490,7 @@ vex.dialog.confirm
 * #[DEMO](http://www.jplayer.cn/demos.html)
 * #[github](https://github.com/happyworm/jPlayer)
 
+---
 
 #12.[projekktor-UI漂亮的一款HTML5播放器](http://www.projekktor.com/)
 ##github star:160+
@@ -483,6 +500,7 @@ vex.dialog.confirm
 
 [github](https://github.com/frankyghost/projekktor)
 
+---
 
 #13.[kindeditor-一款可定制性极高的富文本编辑器](https://kindeditor.codeplex.com/)
 
@@ -527,6 +545,8 @@ editor.html('HTML内容');
 * #[DEMO](http://kindeditor.net/demo.php)
 * #[github](https://github.com/kindsoft/kindeditor)
 
+---
+
 #14.[移动端事件模拟封装库](https://github.com/chenmnkken/monoevent)
 
 ##github star:37+
@@ -534,6 +554,8 @@ editor.html('HTML内容');
 
 * #[DEMO](http://stylechen.com/touch.html)
 * #[github](https://github.com/chenmnkken/monoevent)
+
+---
 
 #15.[iScroll-实现下拉刷新，滚动翻页特效的JQuery插件](http://iscrolljs.com/)
 
@@ -558,7 +580,12 @@ editor.html('HTML内容');
 
 * #[github](https://github.com/cubiq/iscroll/)
 
+---
+
 #16.[Rome-可定制的JS期与时间选择器-PC端](http://bevacqua.github.io/rome/)
+
+##github star:2300+
+##github fork:170+
 
 **Rome是一个可定制的JS日期与时间选择器。不依赖于第三方库**
 
@@ -574,8 +601,12 @@ rome(inputTwo, { initialValue: '2014-12-08 08:36' });
 * #[demo](http://bevacqua.github.io/rome/)
 * #[github](https://github.com/bevacqua/rome)
 
+---
 
 #17.[echarts-可视化图标插件](http://echarts.baidu.com/echarts2/)
+
+##github star:11000+
+##github fork:4000+
 
 **5分钟上手写ECharts的第一个图表**
 
@@ -703,12 +734,12 @@ rome(inputTwo, { initialValue: '2014-12-08 08:36' });
 
 5.浏览器中打开echarts.html,就能看到效果
 
+* #[DEMO](http://echarts.baidu.com/echarts2/doc/example.html)
+* #[github](https://github.com/ecomfe/echarts)
 
+---
 
-
-
-
-
+#以上总结不是特别精准,请以各自官网为准,后续遇到比较实用的插件也会继续更新,各位大神有什么好的推荐也可以私信我,共勉!
 
 
 
