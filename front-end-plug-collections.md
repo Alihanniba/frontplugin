@@ -671,9 +671,9 @@ editor.html('HTML内容');
 ##github star:160+
 ##github fork:60+
 
-[DEMO](http://www.projekktor.com/)
+* #[DEMO](http://www.projekktor.com/)
 
-[github](https://github.com/frankyghost/projekktor)
+* #[github](https://github.com/frankyghost/projekktor)
 
 ---
 
