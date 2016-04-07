@@ -307,19 +307,51 @@ var opt = {
 * # [github](https://github.com/acidb/mobiscroll)
 
 
-# 7.
+# 7.[Sweet Alert-js超酷消息警告框插件](http://www.dglives.com/demo/sweetalert-master/example/)
+
+**SweetAlert是一款神奇的javascript弹出消息警告框插件。**
+
+1.要使用该插件，首先要在html的header中引入以下文件
+```html
+<script src="lib/sweet-alert.min.js"></script>
+<link rel="stylesheet" type="text/css" href="lib/sweet-alert.css">
+
+```
+2.最基本的调用方法：
+
+```js
+sweetAlert("Hello world!");
+```
+
+3.带错误图标的警告框：
+
+```js
+sweetAlert("Oops...", "Something went wrong!", "error");
+```
+4.一个带有确认按钮的警告框，点击确认按钮可触发动画：
+
+```js
+sweetAlert({
+  title: "Are you sure?",
+  text: "You will not be able to recover this imaginary file!",
+  type: "warning",
+  showCancelButton: true,
+  confirmButtonColor: "#DD6B55",
+  confirmButtonText: "Yes, delete it!",
+  closeOnConfirm: false
+}, function(){
+  swal("Deleted!",
+  "Your imaginary file has been deleted.",
+  "success");
+});
+```
+
+* #[DEMO](http://www.dglives.com/demo/sweetalert-master/example/)
+
+* #[github](https://github.com/t4t5/sweetalert)
 
 
-
-
-
-
-
-
-
-
-
-
+#8.
 
 
 
