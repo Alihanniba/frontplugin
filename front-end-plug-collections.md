@@ -32,7 +32,7 @@
 * **github fork:7000+**
 
 
-* **[DEMO](http://fontawesome.io/)**
+* **[demo](http://fontawesome.io/)**
 * **[github](https://github.com/FortAwesome/Font-Awesome)**
 
 
@@ -69,7 +69,7 @@
 ```js
 $(".chzn-select").chosen();
 ```
-* **[DEMO](http://www.vaikan.com/docs/Chosen/Chosen.htm)**
+* **[demo](http://www.vaikan.com/docs/Chosen/Chosen.htm)**
 * **[github地址](https://github.com/harvesthq/chosen/)**
 
 
@@ -118,8 +118,7 @@ sweetAlert({
 });
 ```
 
-* **[DEMO](http://www.dglives.com/demo/sweetalert-master/example/)**
-
+* **[demo](http://www.dglives.com/demo/sweetalert-master/example/)**
 * **[github](https://github.com/t4t5/sweetalert)**
 
 亲测:UI很漂亮
@@ -257,7 +256,7 @@ sweetAlert({
 
 5.浏览器中打开echarts.html,就能看到效果
 
-* **[DEMO](http://echarts.baidu.com/echarts2/doc/example.html)**
+* **[demo](http://echarts.baidu.com/echarts2/doc/example.html)**
 * **[github](https://github.com/ecomfe/echarts)**
 
 ---
@@ -348,8 +347,8 @@ sweetAlert({
 ```
 
 
-* ** [DEMO](http://www.swiper.com.cn/demo/index.html)**
-* ** [DEMO2](http://idangero.us/swiper/#.VwT6zxN94cg)**
+* ** [demo](http://www.swiper.com.cn/demo/index.html)**
+* ** [demo2](http://idangero.us/swiper/#.VwT6zxN94cg)**
 * ** [github地址](https://github.com/nolimits4web/Swiper)**
 
 
@@ -374,7 +373,7 @@ sweetAlert({
 ```
 **曾用iScroll实现在安卓手机上触摸滚动兼容性问题**
 
-* **[DEMO](http://iscrolljs.com/)**
+* **[demo](http://iscrolljs.com/)**
 * **[github](https://github.com/cubiq/iscroll/)**
 
 ---
@@ -412,7 +411,7 @@ sweetAlert({
  background: orange;
 }
 ```
-* ** [DEMO](https://connoratherton.com/loaders)**
+* ** [demo](https://connoratherton.com/loaders)**
 * ** [github地址](https://github.com/ConnorAtherton/loaders.css)**
 
 
@@ -444,7 +443,7 @@ vex.dialog.confirm
         console.log if value then 'Successfully destroyed the planet.' else 'Chicken.'
 ```
 
-* **[DEMO](http://github.hubspot.com/vex/docs/welcome/)**
+* **[demo](http://github.hubspot.com/vex/docs/welcome/)**
 * **[github](https://github.com/HubSpot/vex)**
 
 
@@ -492,7 +491,7 @@ vex.dialog.confirm
 
 
 
-* ** [DEMO](http://www.jq22.com/yanshi28)**
+* ** [demo](http://www.jq22.com/yanshi28)**
 * ** [github地址](https://github.com/fancyapps/fancyBox)**
 
 
@@ -542,7 +541,7 @@ vex.dialog.confirm
 </div>
 ```
 
-* **[DEMO](http://www.jplayer.cn/demos.html)**
+* **[demo](http://www.jplayer.cn/demos.html)**
 * **[github](https://github.com/happyworm/jPlayer)**
 
 ---
@@ -613,7 +612,7 @@ var opt = {
     
     $('input:jqmData(role="datebox")').mobiscroll(opt);
 ```
-* **  [DEMO](demo.mobiscroll.com)**
+* **  [demo](demo.mobiscroll.com)**
 * ** [github](https://github.com/acidb/mobiscroll)**
 
 
@@ -660,7 +659,7 @@ editor.html('HTML内容');
 ```
 
 
-* **[DEMO](http://kindeditor.net/demo.php)**
+* **[demo](http://kindeditor.net/demo.php)**
 * **[github](https://github.com/kindsoft/kindeditor)**
 
 ---
@@ -669,8 +668,7 @@ editor.html('HTML内容');
 * **github star:160+**
 * **github fork:60+**
 
-* **[DEMO](http://www.projekktor.com/)**
-
+* **[demo](http://www.projekktor.com/)**
 * **[github](https://github.com/frankyghost/projekktor)**
 
 ---
@@ -732,7 +730,7 @@ editor.html('HTML内容');
 <script type="text/javascript">TouchSlide({ slideCell:"#leftTabBox" });</script>
 ```
 
-* ** [DEMO](http://www.superslide2.com/TouchSlide/demo.html)**
+* ** [demo](http://www.superslide2.com/TouchSlide/demo.html)**
 
 
 
@@ -747,7 +745,7 @@ editor.html('HTML内容');
 * **github star:37+**
 * **github fork:23+**
 
-* **[DEMO](http://stylechen.com/touch.html)**
+* **[demo](http://stylechen.com/touch.html)**
 * **[github](https://github.com/chenmnkken/monoevent)**
 
 ---
@@ -759,7 +757,7 @@ editor.html('HTML内容');
 * **github star:13+**
 * **github fork:8+**
 
-* **[DEMO](http://www.elegantthemes.com/)**
+* **[demo](http://www.elegantthemes.com/)**
 * **[github](https://github.com/pprince/etlinefont-bower)**
 
 
