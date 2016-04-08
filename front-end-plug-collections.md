@@ -664,6 +664,57 @@ editor.html('HTML内容');
 
 ---
 
+**[14.jPages-强大的客户端分页插件](http://www.jq22.com/yanshi283)**
+* **github star:590+**
+* **github fork:280+**
+
+**jPages是一个客户端分页插件，它比其他大多数插件多了很多功能，比如自动翻页，滚动浏览，显示延迟，完全可定制的导航面板也集成项目与Animate.css和延迟加载。**
+
+1.下面的代码添加到您的网页的<head>部分：
+
+```html
+<link rel="stylesheet" href="css/jPages.css">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="js/jPages.js"></script>
+```
+
+2.如果你想使用Animate.css动画你还需要添加的文件：
+
+```html
+<link rel="stylesheet" href="css/animate.css">
+```
+
+3.示例源代码：
+
+```html
+<!-- Future navigation panel -->
+<div class="holder"></div>
+<!-- Item container (doesn't need to be an UL) -->
+<ul id="itemContainer">
+<!-- Items -->
+    <li>...</li>
+    <li>...</li>
+    <li>...</li>
+    <li>...</li>
+    <li>...</li>
+    ...
+</ul>
+```
+
+4.启动插件：
+
+```js
+$(function(){
+  $("div.holder").jPages({
+    containerID : "itemContainer"
+  });
+});
+```
+
+* **[demo](http://www.jq22.com/yanshi283)**
+* **[github](https://github.com/luis-almeida/jPages)**
+---
+
 **[14.projekktor-UI漂亮的一款HTML5播放器](http://www.projekktor.com/)**
 * **github star:160+**
 * **github fork:60+**
